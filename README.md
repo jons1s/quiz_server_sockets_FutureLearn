@@ -13,4 +13,4 @@ The server expects at least two clients to be running (held in variable number_o
 Questions are held in quiz_questions (six questions in the demo)\
  After all the questions have been asked the server will declare a winning team unless no-one scored any points.\
 \
-In the case of a draw, a tie breaker Question will be asked with the first correct answer being the winner.\
+In the case of a draw, a tie breaker Question will be asked with the first correct answer being the winner.
